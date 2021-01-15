@@ -23,7 +23,11 @@ function setup() {
   //position images 
   image(background, 400, 10);
   image(chonky, 700, 550);
-  image(coeur, 900, 20);
+
+  //3 = nombre de vie
+  for (i = 0, i < 3, i++) {
+    image(coeur,);
+  }
 
 }
 
