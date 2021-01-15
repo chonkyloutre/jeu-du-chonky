@@ -10,6 +10,7 @@ function preload() {
 
 function setup() {
   createCanvas(400, 400);
+  image(background, 0, 0);
 }
 
 function draw() {
